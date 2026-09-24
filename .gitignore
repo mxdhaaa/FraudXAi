@@ -1,0 +1,9 @@
+backend/.venv/
+frontend/node_modules/
+database/fraudx.db
+__pycache__/
+*.pyc
+.env
+ml/models/fraud_models.pkl
+
+backend/fraudx.db
