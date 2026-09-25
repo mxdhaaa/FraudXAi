@@ -7,3 +7,9 @@ __pycache__/
 ml/models/fraud_models.pkl
 
 backend/fraudx.db
+
+data/raw/
+data/processed/
+
+fraudx.db
+ml/models/
